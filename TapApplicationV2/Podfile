@@ -6,8 +6,7 @@ target 'TapApplicationV2' do
   use_frameworks!
 
   # Pods for TapApplicationV2
-  pod 'SwiftLint'
   pod 'TapAdditionsKitV2'
-  pod 'TapSwiftFixes/Threading'
+  pod 'TapSwiftFixesV2'
 
 end
