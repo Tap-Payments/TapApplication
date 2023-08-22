@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import TapSwiftFixesV2
+import func		TapSwiftFixes.ExceptionCatcher.catchException
 
 /// JSON Serialization protocol.
 public protocol JSONSerializable {
